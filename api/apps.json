@@ -1,0 +1,91 @@
+{
+  "storeInfo": {
+    "name": "MEmarket 8.1",
+    "version": "1.0.0",
+    "description": "Магазин приложений для Windows Phone 8.1"
+  },
+  "apps": [
+    {
+      "id": "calculator",
+      "name": "Калькулятор",
+      "version": "1.0.0",
+      "size": 2048576,
+      "downloadUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/apps/calculator.appx",
+      "iconUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/icons/calculator.png",
+      "screenshotUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/screenshots/calculator.png",
+      "description": "Простой и удобный калькулятор для Windows Phone 8.1",
+      "category": "Утилиты",
+      "developer": "MEmarket Team",
+      "rating": 4.5,
+      "downloads": 1250,
+      "releaseDate": "2024-01-15",
+      "requirements": {
+        "osVersion": "8.1",
+        "ram": "512MB",
+        "storage": "10MB"
+      }
+    },
+    {
+      "id": "notepad",
+      "name": "Блокнот",
+      "version": "1.2.0",
+      "size": 1536000,
+      "downloadUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/apps/notepad.appx",
+      "iconUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/icons/notepad.png",
+      "screenshotUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/screenshots/notepad.png",
+      "description": "Текстовый редактор с поддержкой различных форматов",
+      "category": "Производительность",
+      "developer": "MEmarket Team",
+      "rating": 4.2,
+      "downloads": 890,
+      "releaseDate": "2024-01-10",
+      "requirements": {
+        "osVersion": "8.1",
+        "ram": "256MB",
+        "storage": "5MB"
+      }
+    },
+    {
+      "id": "weather",
+      "name": "Погода",
+      "version": "2.1.0",
+      "size": 3072000,
+      "downloadUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/apps/weather.appx",
+      "iconUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/icons/weather.png",
+      "screenshotUrl": "https://raw.githubusercontent.com/Dvltvv/me-market-81/main/screenshots/weather.png",
+      "description": "Прогноз погоды с красивым интерфейсом",
+      "category": "Информация",
+      "developer": "MEmarket Team",
+      "rating": 4.7,
+      "downloads": 2100,
+      "releaseDate": "2024-01-20",
+      "requirements": {
+        "osVersion": "8.1",
+        "ram": "512MB",
+        "storage": "15MB"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "utilities",
+      "name": "Утилиты",
+      "description": "Полезные инструменты"
+    },
+    {
+      "id": "productivity",
+      "name": "Производительность",
+      "description": "Приложения для работы"
+    },
+    {
+      "id": "information",
+      "name": "Информация",
+      "description": "Информационные приложения"
+    },
+    {
+      "id": "games",
+      "name": "Игры",
+      "description": "Развлекательные приложения"
+    }
+  ]
+}
